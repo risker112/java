@@ -1,4 +1,4 @@
-package es;
+package es.prvy;
 
 import java.util.Scanner;
 

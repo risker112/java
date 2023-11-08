@@ -1,4 +1,4 @@
-package es;
+package es.prvy;
 
 public class main14 {
     public static void main(String[] args) {
